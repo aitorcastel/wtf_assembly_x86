@@ -1,6 +1,6 @@
 # wtf_assembly_x86
 
-### Compile notes
+### How to compile
 
 ```bash
 $ nasm -f elf32 ex1.asm -o ex1.o
